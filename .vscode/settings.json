@@ -7,5 +7,12 @@
         "test_*.py"
     ],
     "python.testing.pytestEnabled": false,
+<<<<<<< HEAD
     "python.testing.unittestEnabled": true
+=======
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestArgs": [
+        "."
+    ]
+>>>>>>> 9ff204172a2f029f9048705944dd5274da52a5ce
 }
